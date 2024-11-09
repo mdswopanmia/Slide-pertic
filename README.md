@@ -1,1 +1,1 @@
-gh repo clone mdswopanmia/Slide-pertice
+https://mdswopanmia.github.io/Slide-pertic/
